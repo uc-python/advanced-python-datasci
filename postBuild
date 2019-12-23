@@ -1,0 +1,2 @@
+conda env create -f environment.yml
+python -m ipykernel install --user --name uc-python-dl --display-name uc-python-dl
