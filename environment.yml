@@ -1,0 +1,14 @@
+name: uc-python-dl
+channels:
+    - defaults
+    - conda-forge
+dependencies:
+    - python>=3.7
+    - pip>=19.0
+    - keras>=2.3
+    - fuzzywuzzy>=0.17
+    - gensim>=3.8
+    - pandas=0.25
+    - rise
+    - pip:
+      - jupyter-contrib-nbextensions
