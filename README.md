@@ -64,6 +64,7 @@ These easiest way to install Python, Jupyter, and the necessary packages is thro
 4. Open the installer when the download completes, and then follow the prompts. If you are prompted about installing PyCharm, elect **not** to do so.
 5. Once installed, open the Anaconda Navigator and launch a Jupyter Notebook to ensure it works.
 6. Follow [the package installation instructions](https://docs.anaconda.com/anaconda/navigator/tutorials/manage-packages/#installing-a-package) to ensure `pandas`, `keras`, `fuzzywuzzy`, and `gensim` packages are installed.
+    - Note that `fuzzywuzzy` may need to be installed from a non-standard "channel", or package source -- its channel is called *conda-forge*. If you have trouble installing `fuzzywuzzy`, we'll be able to help in class.
 
 #### 2. Download class materials
 
