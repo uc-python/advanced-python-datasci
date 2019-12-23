@@ -13,6 +13,13 @@ Some additional time will be reserved for discussion of real programming challen
 2. Build familiarity with the basic interfaces of key Python libraries for deep learning and NLP: [Keras](http://keras.io), [FuzzyWuzzy](https://github.com/seatgeek/fuzzywuzzy), and [gensim](https://radimrehurek.com/gensim/).
 3. Gain a high-level understanding of the function of data science-adjacent technologies that students will encounter in the workplace, focusing on [Git](https://git-scm.com) and [GitHub](https://github.com).
 
+### Prerequisites
+
+- Strong understanding of core Python concepts: variables, loops, conditionals, and functions
+- Some experience using Jupyter Notebooks or Jupyter Lab
+- Solid grasp of Pandas and how to use it for data manipulation: filtering, selecting, aggregating, indexing, and updating.
+- High-level understanding of modeling concepts: training and test data, model accuracy, and overfitting.
+
 ### Tentative Agenda
 
 **Day 1**
