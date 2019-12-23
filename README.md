@@ -21,38 +21,32 @@ Some additional time will be reserved for discussion of real programming challen
 - High-level understanding of modeling concepts: training and test data, model accuracy, and overfitting.
 
 ### Tentative Agenda
+*Exact timing TBD*
 
 **Day 1**
-
-| Topic                                                                          |     Time      |
-| :----------------------------------------------------------------------------- | :-----------: |
-| Breakfast / Social Time                                                        |  8:00 - 9:00  |
-| Introductions                                                                  |  9:00 - 9:15  |
-| Setting the Stage                                                              |  9:15 - 9:45  |
-| Conditions                                                                     |  9:45 - 10:30 |
-| Break                                                                          | 10:30 - 10:45 |
-| Iterations                                                                     | 10:45 - 12:00 |
-| Lunch                                                                          | 12:00 - 1:00  |
-| Functions                                                                      |  1:00 - 2:00  |
-| Applying Functions to pandas Data Frames                                       |  2:00 - 2:30  |
-| Break                                                                          |  2:30 - 2:45  |
-| Case Study, pt. 1                                                              |  2:45 - 4:00  |
-| Q\&A                                                                           |  4:00 - 4:30  | 
+- Breakfast / Social Time
+- Introductions
+- Refresher on Key Python & Pandas Concepts
+- Why Do We Need Deep Learning?
+- Why Use Python for Deep Learning?
+- Overview of Keras and Tensorflow
+- Walkthrough of Example Using Keras
+- High-level discussion and Deep Learning -- How Does It Work?
+- Deep Learning Case Study
 
 **Day 2**
+- Breakfast / Social Time
+- Review of Case Study; Question Time
+- What is NLP and What Problems Can It Solve?
+- Popular NLP Packages in Python
+- Overview of FuzzyWuzzy Package
+- Walkthrough of Example Using FuzzyWuzzy
+- Overview of gensim Package and Word2Vec
+- Walkthrough of Example Using gensim
+- *(As time permits)* Discussion Git, GitHub, and Other Data Science-adjacent Tools
+- NLP Case Study
+- Review of Case Study; Question Time; Wrap-up
 
-| Topic                                                                          |     Time      |
-| :----------------------------------------------------------------------------- | :-----------: |
-| Breakfast / Social Time                                                        |  8:00 - 9:00  |
-| Case Study Review, pt. 1                                                       |  9:00 - 9:30  |
-| Python from the Shell                                                          |  9:30 - 10:30 |
-| Break                                                                          | 10:30 - 10:45 |
-| Kernels and Environments                                                       | 10:45 - 11:30 |
-| Python Data Science Ecosystem                                                  | 11:30 - 12:00 |
-| Lunch                                                                          | 12:00 - 1:00  |
-| Modeling with scikit-learn                                                     |  1:00 - 2:00  |
-| Case Study, pt. 2                                                              |  2:00 - 3:15  |
-| Case Study Review, pt. 2 and Q\&A                                              |  3:15 - 4:00  |
 
 ### Course Preparation
 
