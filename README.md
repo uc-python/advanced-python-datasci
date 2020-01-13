@@ -24,6 +24,7 @@ Some additional time will be reserved for discussion of real programming challen
 *Exact timing TBD*
 
 **Day 1**
+
 | Topic                                                                          | Time        |
 | :----------------------------------------------------------------------------- | ----------: |
 | Breakfast / Social Time                                                        | 8:00-9:00   |
@@ -41,6 +42,7 @@ Some additional time will be reserved for discussion of real programming challen
 | Deep Learning Case Study Review; Q&A                                           | 4:00-4:30   |
 
 **Day 2**
+
 | Topic                                                                    | Time        |
 | :----------------------------------------------------------------------- | ----------: |
 | Breakfast / Social Time                                                  | 8:00-9:00   |
