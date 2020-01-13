@@ -17,8 +17,8 @@ Some additional time will be reserved for discussion of real programming challen
 
 - Strong understanding of core Python concepts: variables, loops, conditionals, and functions
 - Some experience using Jupyter Notebooks or Jupyter Lab
-- Solid grasp of Pandas and how to use it for data manipulation: filtering, selecting, aggregating, slicing (indexing), and updating.
-- High-level understanding of modeling concepts: training and test data, model accuracy, and overfitting.
+- Solid grasp of Pandas and how to use it for data manipulation: filtering, selecting, aggregating, slicing (indexing), and updating
+- High-level understanding of modeling concepts: training and test data, model accuracy, and overfitting
 
 ### Tentative Agenda
 *Exact timing TBD*
@@ -71,10 +71,10 @@ These easiest way to install Python, Jupyter, and the necessary packages is thro
 There are two ways to download the class materials:
 
 1. Clone it - If you're familiar with using Git, I recommend cloning the repo.
-2. Download the files as a zip - This will allow you to download a static copy of the files here, but in order to get any updates you'll need to redownload the entire repo. Use [this link](https://github.com/uc-python/advanced-python-datasci/archive/master.zip)
+2. Download the files as a zip - This will allow you to download a static copy of the files here, but in order to get any updates you'll need to redownload the entire repo. Use [this link](https://github.com/uc-python/advanced-python-datasci/archive/master.zip).
 
 ### About Your Instructor
 I'm a Lead Data Scientist at 84.51˚ and an adjunct instructor at the University of Cincinnati.
 I've been teaching classes professionally on Python, Linux, and Spark for over three years.
 
-If you have any issues or concerns, feel free to contact me via email: at [ethanpswan@gmail.com](mailto:ethanpswan@gmail.com)
+If you have any issues or concerns, feel free to contact me via email at [ethanpswan@gmail.com](mailto:ethanpswan@gmail.com).
