@@ -43,7 +43,7 @@ Some additional time will be reserved for discussion of real programming challen
 - Walkthrough of Example Using FuzzyWuzzy
 - Overview of gensim Package and Word2Vec
 - Walkthrough of Example Using gensim
-- *(As time permits)* Discussion Git, GitHub, and Other Data Science-adjacent Tools
+- *(As time permits)* Discussion of Git, GitHub, and Other Data Science-adjacent Tools
 - NLP Case Study
 - Review of Case Study; Question Time; Wrap-up
 
