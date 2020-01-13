@@ -24,29 +24,37 @@ Some additional time will be reserved for discussion of real programming challen
 *Exact timing TBD*
 
 **Day 1**
-- Breakfast / Social Time
-- Introductions
-- Refresher on Key Python & Pandas Concepts
-- Why Do We Need Deep Learning?
-- Why Use Python for Deep Learning?
-- Overview of Keras and Tensorflow
-- Walkthrough of Example Using Keras
-- High-level discussion and Deep Learning -- How Does It Work?
-- Deep Learning Case Study
+| Topic                                                                          | Time        |
+| :----------------------------------------------------------------------------- | ----------: |
+| Breakfast / Social Time                                                        | 8:00-9:00   |
+| Introductions                                                                  | 9:00-9:15   |
+| Refresher on Key Python & Pandas Concepts                                      | 9:15-9:45   |
+| Why Do We Need Deep Learning?                                                  | 9:45-10:00  |
+| Why Use Python for Deep Learning?                                              | 10:00-10:30 |
+| Break                                                                          | 10:30-10:45 |
+| Overview of Keras and Tensorflow                                               | 10:45-12:00 |
+| Lunch                                                                          | 12:00-1:00  |
+| Walkthrough of Example Using Keras                                             | 1:00-1:45   |
+| High-level Discussion of Deep Learning -- How Does It Work?                    | 1:45-2:30   |
+| Break                                                                          | 2:30-2:45   |
+| Deep Learning Case Study                                                       | 3:00-4:00   |
+| Deep Learning Case Study Review; Q&A                                           | 4:00-4:30   |
 
 **Day 2**
-- Breakfast / Social Time
-- Review of Case Study; Question Time
-- What is NLP and What Problems Can It Solve?
-- Popular NLP Packages in Python
-- Overview of FuzzyWuzzy Package
-- Walkthrough of Example Using FuzzyWuzzy
-- Overview of gensim Package and Word2Vec
-- Walkthrough of Example Using gensim
-- *(As time permits)* Discussion of Git, GitHub, and Other Data Science-adjacent Tools
-- NLP Case Study
-- Review of Case Study; Question Time; Wrap-up
-
+| Topic                                                                    | Time        |
+| :----------------------------------------------------------------------- | ----------: |
+| Breakfast / Social Time                                                  | 8:00-9:00   |
+| What is NLP and What Problems Can It Solve?                              | 9:00-9:30   |
+| Popular NLP Packages in Python                                           | 9:30-9:45   |         
+| Break                                                                    | 9:45-10:00  |
+| Overview of the FuzzyWuzzy Package                                       | 10:00-10:30 |
+| Walkthrough of Example Using FuzzyWuzzy                                  | 10:30-11:00 |
+| Overview of Word2Vec and gensim Package                                  | 11:00-12:00 |
+| Lunch                                                                    | 12:00-1:00  |
+| Walkthrough of Example Using gensim                                      | 1:00-1:45   |
+| Discussion of Git, GitHub, and Other Data Science-adjacent Tools         | 1:45-2:30   |
+| NLP Case Study                                                           | 2:30-3:30   |
+| Case Study Review; Q&A; Wrap-up                                          | 3:30-4:30   |
 
 ### Course Preparation
 
