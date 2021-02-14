@@ -1,5 +1,7 @@
 # Advanced Python for Data Science
 
+[![Test](https://github.com/uc-python/advanced-python-datasci/workflows/Test/badge.svg)](https://github.com/uc-python/advanced-python-datasci/actions?query=workflow%3ATest)
+
 ### Course Description
 
 This is a two-day course that introduces how one can use Python for advanced data science tasks, such as deep learning and natural language processing.
