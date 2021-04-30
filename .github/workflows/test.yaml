@@ -16,11 +16,11 @@ jobs:
       - name: Set Up Conda Environment
         uses: conda-incubator/setup-miniconda@v2
         with:
-          activate-environment: uc-python-dl
+          activate-environment: uc-python
           environment-file: environment.yml
       - name: Set Up Jupyter Kernel
         run: |
-          python -m ipykernel install --user --name uc-python-dl
+          python -m ipykernel install --user --name uc-python
       - name: Install Papermill
         run: |
           conda install papermill
