@@ -1,4 +1,4 @@
-name: uc-python-dl
+name: uc-python
 channels:
     - defaults
     - conda-forge
