@@ -7,6 +7,7 @@ dependencies:
     - ipykernel>=6.4
     - matplotlib>=3.5
     - missingno>=0.4
+    - nbconvert>=6.1
     - numpy>=1.21
     - pandas>=1.3
     - pip>=21.2
