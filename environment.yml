@@ -7,6 +7,7 @@ dependencies:
     - ipykernel>=5.3
     - matplotlib>=3.3.4
     - missingno=0.4.2
+    - mlflow=1.22
     - numpy=1.19
     - pandas=1.2
     - pip>=20.3
