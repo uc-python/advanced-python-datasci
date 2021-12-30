@@ -6,7 +6,7 @@
 
 This is a two-day course that introduces how one can use Python for advanced machine learning applications.
 Most of the time will be spent working through example problems end-to-end in the classroom.
-Students will learn the fundamentals of the scikit-learn library along with exploring several other tools and methodologies that allow you to implement a robust end-to-end machine learning workflow.
+Students will learn the fundamentals of the Scikit-learn library along with exploring several other tools and methodologies that allow you to implement a robust end-to-end machine learning workflow.
 Some additional time will be reserved for discussion of real programming challenges students have encountered, and for an overview of related relevant technologies students may need in an industry setting (e.g. Git and GitHub).
 
 ### Objectives
@@ -30,10 +30,10 @@ Some additional time will be reserved for discussion of real programming challen
 | Day | Topic                                                                          |     Time      |
 | :-: | :----------------------------------------------------------------------------- | :-----------: |
 |  1  | Introductions                                                                  |  9:00 - 9:15  |
-|     | Setting the Stage                                                              |  9:15 - 9:45  |
-|     | Git & version control                                                          |  9:45 - 10:30 |
-|     | Break                                                                          | 10:30 - 10:45 |
-|     | Model training & selection                                                     | 10:45 - 12:00 |
+|     | Setting the Stage                                                              |  9:15 - 9:30  |
+|     | Git & version control                                                          |  9:30 - 10:15 |
+|     | Break                                                                          | 10:15 - 10:30 |
+|     | EDA & Our first Scikit-learn model                                              | 10:30 - 12:00 |
 |     | Q&A                                                                            | 12:00 - 12:30 |
 |  2  | Q&A                                                                            |  8:30 - 9:00  |
 |     | Modular code                                                                   |  9:00 - 10:00 |
@@ -42,12 +42,12 @@ Some additional time will be reserved for discussion of real programming challen
 |     | Case Study, pt. 1                                                              | 11:15 - 12:00 |
 |     | Q&A                                                                            | 12:00 - 12:30 |
 |  3  | Q&A                                                                            |  8:30 - 9:00  |
-|     | Model tracking & registration                                                  |  9:00 - 10:15 |
+|     | Model evaluation & selection                                                   |  9:00 - 10:15 |
 |     | Break                                                                          | 10:15 - 10:30 |
 |     | Modular code & unit tests                                                      | 10:30 - 12:00 |
 |     | Q&A                                                                            | 12:00 - 12:30 |
 |  4  | Q&A                                                                            |  8:30 - 9:00  |
-|     | Model deployment & monitoring                                                  |  9:00 - 10:00 |
+|     | ML lifecycle management                                                        |  9:00 - 10:00 |
 |     | Reproducibility with dependency tracking                                       | 10:00 - 10:45 |
 |     | Break                                                                          | 10:45 - 11:00 |
 |     | Case Study, pt. 2                                                              | 11:00 - 11:45 |
