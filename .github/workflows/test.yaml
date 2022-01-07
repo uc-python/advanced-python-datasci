@@ -17,7 +17,7 @@ jobs:
         uses: conda-incubator/setup-miniconda@v2
         with:
           activate-environment: uc-python
-          environment-file: environment.yml
+          environment-file: environment.yaml
       - name: Set Up Jupyter Kernel
         run: |
           python -m ipykernel install --user --name uc-python
