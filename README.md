@@ -22,35 +22,34 @@ Some additional time will be reserved for discussion of real programming challen
 - Solid grasp of Pandas and how to use it for data manipulation: filtering, selecting, aggregating, slicing (indexing), and updating
 - High-level understanding of modeling concepts: training and test data, model accuracy, and overfitting
 
-### Tentative Agenda
+### Agenda
 **This workshop will be 100% virtual over 4 half-days.**
-
-*Exact timing TBD*
 
 | Day | Topic                                                                          |     Time      |
 | :-: | :----------------------------------------------------------------------------- | :-----------: |
-|  1  | Introductions                                                                  |  9:00 - 9:15  |
-|     | Setting the Stage                                                              |  9:15 - 9:30  |
+|  1  | Introductions                                                                  |  9:00 -  9:15 |
+|     | Setting the Stage                                                              |  9:15 -  9:30 |
 |     | Git & version control                                                          |  9:30 - 10:15 |
 |     | Break                                                                          | 10:15 - 10:30 |
-|     | EDA & Our first Scikit-learn model                                              | 10:30 - 12:00 |
+|     | EDA & Our First scikit-learn Model                                             | 10:30 - 12:00 |
 |     | Q&A                                                                            | 12:00 - 12:30 |
-|  2  | Q&A                                                                            |  8:30 - 9:00  |
-|     | Modular code                                                                   |  9:00 - 10:00 |
-|     | Feature engineering                                                            | 10:00 - 11:00 |
+|  2  | Q&A                                                                            |  8:45 -  9:00 |
+|     | Modular Code                                                                   |  9:00 - 10:00 |
+|     | Feature Engineering                                                            | 10:00 - 11:00 |
 |     | Break                                                                          | 11:00 - 11:15 |
 |     | Case Study, pt. 1                                                              | 11:15 - 12:00 |
 |     | Q&A                                                                            | 12:00 - 12:30 |
-|  3  | Q&A                                                                            |  8:30 - 9:00  |
-|     | Model evaluation & selection                                                   |  9:00 - 10:15 |
+|  3  | Q&A                                                                            |  8:45 - 9:00  |
+|     | Model Evaluation & Selection                                                   |  9:00 - 10:15 |
 |     | Break                                                                          | 10:15 - 10:30 |
-|     | Modular code & unit tests                                                      | 10:30 - 12:00 |
+|     | More on Modular Code                                                           | 10:30 - 11:15 |
+|     | Unit Tests                                                                     | 11:15 - 12:00 |
 |     | Q&A                                                                            | 12:00 - 12:30 |
-|  4  | Q&A                                                                            |  8:30 - 9:00  |
-|     | ML lifecycle management                                                        |  9:00 - 10:00 |
-|     | Reproducibility with dependency tracking                                       | 10:00 - 10:45 |
-|     | Break                                                                          | 10:45 - 11:00 |
-|     | Case Study, pt. 2                                                              | 11:00 - 11:45 |
+|  4  | Q&A                                                                            |  8:45 -  9:00 |
+|     | More on Unit Tests                                                             |  9:00 -  9:30 |
+|     | ML lifecycle management                                                        |  9:30 - 10:30 |
+|     | Break                                                                          | 10:30 - 10:45 |
+|     | Case Study, pt. 2                                                              | 10:45 - 11:45 |
 |     | Case Study Review, pt. 2 and Q&A                                               | 11:45 - 12:30 |
 
 ### Course Preparation
