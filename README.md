@@ -27,30 +27,30 @@ Some additional time will be reserved for discussion of real programming challen
 
 | Day | Topic                                                                          |     Time      |
 | :-: | :----------------------------------------------------------------------------- | :-----------: |
-|  1  | Introductions                                                                  |  9:00 -  9:15 |
-|     | Setting the Stage                                                              |  9:15 -  9:30 |
-|     | Git & version control                                                          |  9:30 - 10:15 |
-|     | Break                                                                          | 10:15 - 10:30 |
-|     | EDA & Our First scikit-learn Model                                             | 10:30 - 12:00 |
-|     | Q&A                                                                            | 12:00 - 12:30 |
-|  2  | Q&A                                                                            |  8:45 -  9:00 |
-|     | Modular Code                                                                   |  9:00 - 10:00 |
-|     | Feature Engineering                                                            | 10:00 - 11:00 |
-|     | Break                                                                          | 11:00 - 11:15 |
-|     | Case Study, pt. 1                                                              | 11:15 - 12:00 |
-|     | Q&A                                                                            | 12:00 - 12:30 |
-|  3  | Q&A                                                                            |  8:45 - 9:00  |
-|     | Model Evaluation & Selection                                                   |  9:00 - 10:15 |
-|     | Break                                                                          | 10:15 - 10:30 |
-|     | More on Modular Code                                                           | 10:30 - 11:15 |
-|     | Unit Tests                                                                     | 11:15 - 12:00 |
-|     | Q&A                                                                            | 12:00 - 12:30 |
-|  4  | Q&A                                                                            |  8:45 -  9:00 |
-|     | More on Unit Tests                                                             |  9:00 -  9:30 |
-|     | ML lifecycle management                                                        |  9:30 - 10:30 |
-|     | Break                                                                          | 10:30 - 10:45 |
-|     | Case Study, pt. 2                                                              | 10:45 - 11:45 |
-|     | Case Study Review, pt. 2 and Q&A                                               | 11:45 - 12:30 |
+|  1  | Introductions                                                                  | 12:45 -  1:00 |
+|     | Setting the Stage                                                              |  1:00 -  1:15 |
+|     | Git & version control                                                          |  1:15 -  2:00 |
+|     | Break                                                                          |  2:00 -  2:15 |
+|     | EDA & Our First scikit-learn Model                                             |  2:15 -  3:45 |
+|     | Q&A                                                                            |  3:45 -  4:15 |
+|  2  | Q&A                                                                            | 12:45 -  1:00 |
+|     | Modular Code                                                                   |  1:00 -  2:00 |
+|     | Feature Engineering                                                            |  2:00 -  3:00 |
+|     | Break                                                                          |  3:00 -  3:15 |
+|     | Case Study, pt. 1                                                              |  3:15 -  4:00 |
+|     | Q&A                                                                            |  4:00 -  4:15 |
+|  3  | Q&A                                                                            | 12:45 -  1:00 |
+|     | Model Evaluation & Selection                                                   |  1:00 -  2:15 |
+|     | Break                                                                          |  2:15 -  2:30 |
+|     | More on Modular Code                                                           |  2:30 -  3:15 |
+|     | Unit Tests                                                                     |  3:15 -  4:00 |
+|     | Q&A                                                                            |  4:00 -  4:15 |
+|  4  | Q&A                                                                            | 12:45 -  1:00 |
+|     | More on Unit Tests                                                             |  1:00 -  1:30 |
+|     | ML lifecycle management                                                        |  1:30 -  2:30 |
+|     | Break                                                                          |  2:30 -  2:45 |
+|     | Case Study, pt. 2                                                              |  2:45 -  3:45 |
+|     | Case Study Review, pt. 2 and Q&A                                               |  3:45 -  4:15 |
 
 ### Course Preparation
 
@@ -88,3 +88,5 @@ If you have any specific questions prior to the class you can reach out to us di
 
   * Ethan Swan: [GitHub](https://www.github.com/eswan18) & [Email](mailto:ethanpswan@gmail.com)
   * Bradley Boehmke: [GitHub](https://www.github.com/bradleyboehmke) & [Email](mailto:bradleyboehmke@gmail.com)
+  * Gus Powers: [GitHub](https://www.github.com/augustopher) & [Email](mailto:guspowers0@gmail.com)
+  * Jay Cunningham: [GitHub](https://github.com/cunningjames) & [Email](mailto:james@notbadafterall.com)
