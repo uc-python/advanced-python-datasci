@@ -80,7 +80,7 @@ These easiest way to install Python, Jupyter, and the necessary packages is thro
 There are two ways to download the class materials:
 
 1. Clone it - If you're familiar with using Git, we recommend cloning the repo.
-2. Download the files as a zip - This will allow you to download a static copy of the files here, but in order to get any updates you'll need to redownload the entire repo. Use [this link](https://github.com/uc-python/advanced-python-datasci/archive/master.zip).
+2. Download the files as a zip - This will allow you to download a static copy of the files here, but in order to get any updates you'll need to redownload the entire repo. Use [this link](https://github.com/uc-python/advanced-python-datasci/archive/refs/heads/main.zip).
 
 ### Your Instructors
 
